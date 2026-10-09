@@ -20,4 +20,4 @@ Research should be judged on its merits, not on the age of its author. But submi
 
 ### Team
 
-[Joun Won](https://openageacademia.org/joun-won) (Co-founder) · [I Hyeon Kim](https://openageacademia.org/i-hyeon-kim) (Co-founder) · [Seungwon Yoon](https://openageacademia.org/seungwon-yoon) (Founding member)
+[Joun Won](https://github.com/jounw) (Co-founder) · [I Hyeon Kim](https://github.com/vj9wjnnbwm-sketch) (Co-founder) · [Seungwon Yoon](https://github.com/kucho926) (Founding member)
